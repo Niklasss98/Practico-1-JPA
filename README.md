@@ -10,3 +10,5 @@ Si hay problemas con los puertos, cambiar el puerto en application.properties, d
 
 Si hay problemas del tipo 'org.hibernate.PersistentObjectException: detached entity passed to persist' interpretar que entidad esta desconectada o hibernada. Esto se puede solucionar cambiando el CascadeType de ALL a MERGE
 (Como fue resuelto en la clase Pedido ya que una entidad de Producto estaba hibernada)
+
+Si hay problemas con la deteccion de getters y setters, descargar el plugin de Lombok para IntelliJ IDEA en Settings
