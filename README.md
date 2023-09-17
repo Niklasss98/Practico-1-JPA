@@ -1,4 +1,4 @@
-# Practico-2-JPA
+# Practico-1-JPA
 
 Entrega del Trabajo Práctico N1 de Desarrollo de Software
 
